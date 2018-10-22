@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg38"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="shutter-speed-overlay-eeclay-hammond.svg">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5163091"
+     inkscape:cx="533.20057"
+     inkscape:cy="487.7287"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="522.321,387.784"
+     inkscape:measure-end="419.44,377.891"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       id="rect40"
+       width="144.66869"
+       height="119.66869"
+       x="70.165657"
+       y="107.16564"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.33130801;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.20713893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect869"
+       width="64.792862"
+       height="16.227861"
+       x="110.10357"
+       y="130.10252" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4566-7-9"
+       cx="123.42503"
+       cy="191.00858"
+       r="7.801209" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758173;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4566-7-9-2"
+       cx="162.14236"
+       cy="191.00858"
+       r="7.801209" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.10916379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.49981,179.37529 c -0.15131,23.82938 -0.15131,23.82938 -0.15131,23.82938"
+       id="path4916-7-7-0-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.10924011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.69164,191.0516 c 23.69347,-0.1938 23.69347,0 23.69347,0"
+       id="path4914-3-3-1-1-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.10215632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 162.21747,181.07721 C 162.066,201.92252 162.066,201.92252 162.066,201.92252"
+       id="path4916-7-7-0-9-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1009471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.18826,191.05129 c 20.3786,-0.19241 20.3786,0 20.3786,0"
+       id="path4914-3-3-1-1-9-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="72.689056"
+       y="112.72006"
+       id="text5104"><tspan
+         sodipodi:role="line"
+         id="tspan5102"
+         x="72.689056"
+         y="112.72006"
+         style="font-size:2.82222223px;stroke-width:0.26458332">Eeclay Receiver Stencil v2 (rs@mage.me.uk)</tspan></text>
+  </g>
+</svg>

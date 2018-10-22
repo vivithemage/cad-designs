@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="448.3504"
-     inkscape:cy="572.29285"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="404.95896"
+     inkscape:cy="395.75565"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,71 +56,129 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-87)">
-    <rect
-       id="rect40"
-       width="37.851528"
-       height="91.851532"
-       x="70.074234"
-       y="109.59844"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.14847019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758185;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4566"
-       cx="89"
-       cy="149.76778"
-       r="7.801209" />
-    <circle
+    <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4566-7"
        cx="89"
        cy="125.34729"
        r="7.801209" />
+    <rect
+       id="rect40-3"
+       width="139.8243"
+       height="34.824295"
+       x="24.639793"
+       y="227.08786"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1757061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758188;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4566-78"
+       cx="88"
+       cy="244.5"
+       r="7.801209" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4566-7-6"
+       cx="174.9279"
+       cy="119.95847"
+       r="0" />
     <circle
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4566-7-9"
-       cx="89"
-       cy="174.80383"
+       id="path4566-7-9-8"
+       cx="113"
+       cy="244.5"
        r="7.801209" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.10833209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.690664,125.38792 c 24.564906,-0.18383 24.564906,0 24.564906,0"
-       id="path4914"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.10795638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.075653,113.69449 c -0.15131,23.30516 -0.15131,23.30516 -0.15131,23.30516"
-       id="path4916"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.105554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.075648,139.72017 c -0.1513,22.27947 -0.1513,22.27947 -0.1513,22.27947"
-       id="path4916-7"
+       d="m 88.07565,233.36027 c -0.1513,22.27947 -0.1513,22.27947 -0.1513,22.27947"
+       id="path4916-7-6"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.10889776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.516046,149.80823 c 24.913854,-0.18315 24.913854,0 24.913854,0"
-       id="path4914-3"
+       d="m 75.516044,244.5407 c 24.913866,-0.18315 24.913866,0 24.913866,0"
+       id="path4914-3-6"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.10916379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.075653,163.17027 c -0.15131,23.82938 -0.15131,23.82938 -0.15131,23.82938"
-       id="path4916-7-7-0-9"
+       d="m 113.07565,232.58531 c -0.1513,23.82939 -0.1513,23.82939 -0.1513,23.82939"
+       id="path4916-7-7-0-9-9"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.10924011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 77.126175,174.84658 c 23.693475,-0.1938 23.693475,0 23.693475,0"
-       id="path4914-3-3-1-1-9"
+       d="m 101.12617,244.54307 c 23.69348,-0.1938 23.69348,0 23.69348,0"
+       id="path4914-3-3-1-1-9-1"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39758179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4566-7-9-8-1"
+       cx="138"
+       cy="244.5"
+       r="7.801209" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.10916379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.07565,232.58531 c -0.15131,23.82939 -0.15131,23.82939 -0.15131,23.82939"
+       id="path4916-7-7-0-9-9-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.10924011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.12615,244.54308 c 23.69353,-0.1938 23.69353,0 23.69353,0"
+       id="path4914-3-3-1-1-9-1-5"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="69.199226"
-       y="102.07607"
-       id="text5104"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="144.15459"
+       y="233.92456"
+       id="text986"><tspan
          sodipodi:role="line"
-         id="tspan5102"
-         x="69.199226"
-         y="102.07607"
-         style="font-size:2.82222223px;stroke-width:0.26458332">Eeclay Receiver Stencil v2 - dongle  (rs@mage.me.uk)</tspan></text>
+         id="tspan984"
+         x="144.15459"
+         y="233.92456"
+         style="font-size:3.52777767px;stroke-width:0.26458332">Top right</tspan></text>
+    <rect
+       id="rect40-3-3"
+       width="119.8373"
+       height="34.837307"
+       x="24.475521"
+       y="167.59157"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.16269442;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.079151"
+       y="220.48236"
+       id="text5104-2"><tspan
+         sodipodi:role="line"
+         id="tspan5102-0"
+         x="24.079151"
+         y="220.48236"
+         style="font-size:2.82222223px;stroke-width:0.26458332">Eeclay Top section for main housing  (rs@mage.me.uk)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.289087"
+       y="159.66925"
+       id="text5104-3"><tspan
+         sodipodi:role="line"
+         id="tspan5102-1"
+         x="27.289087"
+         y="159.66925"
+         style="font-size:2.82222223px;stroke-width:0.26458332">Eeclay side panel for USB  (rs@mage.me.uk)</tspan></text>
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.59637284;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4566-78-5"
+       cx="52"
+       cy="185.01022"
+       rx="11.701815"
+       ry="11.701814" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.13472174;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.07565,166.86338 c -0.1513,36.29369 -0.1513,36.29369 -0.1513,36.29369"
+       id="path4916-7-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.13088034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.091701,185.0453 c 41.751406,-0.15786 41.751406,0 41.751406,0"
+       id="path4914-3-6-3"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
